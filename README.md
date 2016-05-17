@@ -21,12 +21,5 @@ backBone学习
 
 
 ##联系我：
-
-<<<<<<< HEAD
-
 * yyl
 * QQ 892390913
-=======
-* yyl
-* QQ 892390913
->>>>>>> origin/master
